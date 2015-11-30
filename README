@@ -1,0 +1,16 @@
+Kind a fetcher for all VK db.
+It works fine one year ago.
+Side project.
+
+===================
+
+virtualenv FOAF
+source FOAF/bin/activate
+deactivate
+
+sudo apt-get install libxml2-dev libxslt1-dev python-dev
+pip install lxml
+
+pip install requests
+pip install progressbar
+pip install python-dateutil
